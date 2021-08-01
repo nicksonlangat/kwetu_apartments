@@ -5,7 +5,7 @@ import africastalking
 
 # Initialize SDK
 username = "sandbox"    
-api_key = "0631c339073244ad5e255d323297af9c72b29e5742ac2bd070c245a34402c652" 
+api_key = "YOUR API KEY" 
 africastalking.initialize(username, api_key)
 
 sms = africastalking.SMS
